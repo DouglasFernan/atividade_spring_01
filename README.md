@@ -20,7 +20,7 @@ Para executar este projeto em sua máquina local, siga os passos abaixo:
 
 2.  **Clonar o Repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+    git clone https://github.com/DouglasFernan/atividade_spring_01
     cd SC_atividade_01
     ```
 
